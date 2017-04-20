@@ -1,0 +1,16 @@
+name: map
+channels:
+  - lightmotif
+dependencies:
+- python>=2.7
+- jupyter
+- jupyter_client
+- jupyter_console
+- jupyter_core
+- matplotlib
+- noise
+- notebook
+- numpy
+- pandas
+- scikit-learn
+# - scikit-image
